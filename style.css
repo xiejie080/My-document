@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    position: absolute;
+}
+.header div{
+    width:30%;
+    padding-bottom: 26%;
+    margin: 1%;
+    background-color: #09ee14;
+    border-radius: 10px;
+    float: left;
+}    
